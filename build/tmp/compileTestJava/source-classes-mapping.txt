@@ -1,0 +1,4 @@
+co/com/koombea/automation/api/stepdefinitions/RickAndMortyStepDefinition.java
+ co.com.koombea.automation.api.stepdefinitions.RickAndMortyStepDefinition
+co/com/koombea/automation/api/runners/TheRickAndMortyRunner.java
+ co.com.koombea.automation.api.runners.TheRickAndMortyRunner
